@@ -6,6 +6,7 @@ public class bodyofmain {
 		// TODO Auto-generated method stub
 		System.out.print("HHHH");
 		int x=10;
+		System.out;
 	
 	}
 
